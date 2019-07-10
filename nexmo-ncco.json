@@ -1,0 +1,7 @@
+[
+    {
+    "action": "talk",
+    "voiceName": "Chipmunk",
+    "text": "Hey! This call is from Snaphunt. I am created with Nexmo Voice API!"
+    }
+    ]
