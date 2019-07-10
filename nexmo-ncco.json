@@ -2,6 +2,11 @@
     {
     "action": "talk",
     "voiceName": "Salli",
+    "text": "Hi! this is automated call from Snaphunt"
+    },
+    {
+     "action": "talk",
+    "voiceName": "Salli",
     "text": "Can you please tell What was your relationship with the candidate during this time"
     }
     ]
