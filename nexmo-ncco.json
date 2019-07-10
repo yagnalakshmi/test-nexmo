@@ -1,7 +1,7 @@
 [
     {
     "action": "talk",
-    "voiceName": "Chipmunk",
+    "voiceName": "Salli",
     "text": "Hey! This call is from Snaphunt. I am created with Nexmo Voice API!"
     }
     ]
